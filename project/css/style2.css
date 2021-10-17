@@ -1,0 +1,23 @@
+body{
+	background-color: #ccc;
+	font-family: 'Open Sans', sans-serif;
+}
+main{
+	background-color: white;
+	width: 80%;
+	margin: auto;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.galary{
+	margin-left: 20px;
+	width: 20%;
+	display: inline-block;
+}
+p{
+	font-size: 30px;
+}
+h1{
+	font-size: 45px;
+	text-align: center;
+}
